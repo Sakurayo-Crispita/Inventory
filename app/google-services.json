@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "179526755020",
+    "project_id": "inventariopersonala",
+    "storage_bucket": "inventariopersonala.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179526755020:android:2a3628f1b4a942ef5e5869",
+        "android_client_info": {
+          "package_name": "com.cristopher.inventariopersonalapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5MKfPZCxmZlAJZPVl1IpFSYjuS1spKbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

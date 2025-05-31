@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">InventarioPersonalApp</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="register">Registrarse</string>
+    <string name="bienvenido_inve">Bienvenido a tu Invetario</string>
+    <string name="cono_de_l_piz">Ícono de lápiz</string>
+    <string name="correo_electr_nico">Correo electrónico</string>
+    <string name="guardar_tem">Guardar Ítem</string>
+    <string name="url_de_la_imagen">URL de la Imagen</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="categor_a">Categoría</string>
+    <string name="nombre">Nombre</string>
+    <string name="a_adir_nuevo_tem">Añadir Nuevo Ítem</string>
+    <string name="mis_tems">Mis Ítems</string>
+    <string name="cerrar_sesi_n">Cerrar sesión</string>
+    <string name="crear_nueva_cuenta">Crear Nueva Cuenta</string>
+    <string name="correo_electr">Correo Electrónico</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="confirmar_contrase_a">Confirmar Contraseña</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="iniciar_sesion_cuenta">¿Ya tienes una cuenta? Inicia sesión</string>
+    <string name="registrar_">¿No tienes una cuenta? Regístrate aquí</string>
+    <string name="iniciar_sesi_n">Iniciar Sesión</string>
+    <string name="contra">Contraseña</string>
+    <string name="agregar_item">agregar_item</string>
+    <string name="url_imagen">URL de la imagen</string>
+    <string name="preview_imagen">Vista previa de la imagen</string>
+    <string name="cargar_preview">Cargar Vista Previa</string>
+    <string name="url_invalida">URL de imagen inválida</string>
+    <string name="error_cargar_imagen">Error al cargar la imagen</string>
+    <string name="cantidad_0">Cantidad: 0</string>
+    <string name="descripci_n">Descripción</string>
+    <string name="nombre_stri">Nombre</string>
+</resources>
